@@ -1,1 +1,2 @@
-# -graduation-thesis
+北大の卒論の際に用いたコード
+XGboostとハイパーパラメータチューニングのOptunaのコードが載っている
