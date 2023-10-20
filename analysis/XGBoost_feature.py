@@ -1,4 +1,4 @@
-import XGBoost_tuning
+import analysis.XGBoost_tuning as XGBoost_tuning
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

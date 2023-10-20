@@ -10,7 +10,7 @@ from sklearn.model_selection import validation_curve
 from sklearn.model_selection import KFold
 import time
 from sklearn.metrics import accuracy_score
-import XGBoost_tuning
+import analysis.XGBoost_tuning as XGBoost_tuning
 
 
 model=XGBoost_tuning.model
